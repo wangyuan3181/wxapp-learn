@@ -1,0 +1,14 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "个人小尝试",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wy",
+  "license": "ISC",
+  "dependencies": {
+    "@vant/weapp": "^1.6.4"
+  }
+}
